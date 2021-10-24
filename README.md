@@ -1,12 +1,10 @@
 # Paragraph Matcher in Python
-***
-***
-## Program Details:
-***
-## Author:
+______
+## # Program Details:
+## -> Author:
 **Shubhanshu Jha**
 ***
-## About the repository:
+## -> About the repository:
 
 This is a ``Python`` program that help you to compare two different text files.
 Also, it will store the output in text files. The program basically does the comparison
@@ -20,10 +18,12 @@ not in the `InputFile`, and `Left_Words_List.txt` will contain those words of `O
 remained uncompared.
 _____________________
 
-### Concepts Implemented:
-***
+### # Concepts Implemented:
+___
 #### *>* File Reading and Writing
 #### *>* List
 #### *>* String
 #### *>* Object Oriented Programming
 ___
+
+
